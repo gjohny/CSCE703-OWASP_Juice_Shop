@@ -35,13 +35,13 @@ secure-login-form/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/gjohny/CSCE703-OWASP_Juice_Shop.git
 ```
 
 2. Enter the project directory:
 
 ```bash
-cd secure-login-form
+cd CSCE703-OWASP_Juice_Shop
 ```
 
 3. Install the dependencies:
