@@ -17,11 +17,12 @@ A basic login form inspired by the OWASP Juice Shop login page. This project dem
 ## Project Structure
 
 ```text
-secure-login-form/
+CSCE703-OWASP_Juice_Shop/
 ├── index.html
 ├── script.js
 ├── server.js
 ├── package.json
+├── success.html
 └── README.md
 ```
 
