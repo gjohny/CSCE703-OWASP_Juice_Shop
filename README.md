@@ -59,7 +59,7 @@ npm start
 5. Open the following address in your browser:
 
 ```text
-http://localhost:3000
+http://localhost:3001
 ```
 
 ## Security
